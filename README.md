@@ -4,6 +4,9 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 次のチュートリアルを元に作成しました: [Tutorial: Tour of Heroes with Angular-CLI](https://github.com/ng-japan/ng2-hands-on-seed/tree/master/courses/tutorial)
 
+実際に動作しているページをGithub Pagesで確認できます
+[https://niwatako.github.io/hello-angular/](https://niwatako.github.io/hello-angular/)
+
 ### メモ
 - [Visual Studio Code - Visual Studio](https://www.microsoft.com/ja-jp/dev/products/code-vs.aspx)
   - 利用したエディタ
